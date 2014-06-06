@@ -1,4 +1,4 @@
-sobre
+Sobre
 =====
 
-Conheça um pouco mais sobre o BrazilCMS
+O BrazilCMS é uma comunidade formada por usuários e profissionais que utilizam CMS livres.
